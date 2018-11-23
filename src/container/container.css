@@ -1,0 +1,24 @@
+.container {
+  height: 935px;
+  display: flex;
+  overflow: auto;
+}
+button {
+  display: block;
+}
+.leftSpace {
+  width: 20%;
+  height: 935px;
+  display: block;
+  flex-direction: column;
+  overflow: scroll;
+}
+.rightSpace {
+  text-align: center;
+  width: 80%;
+  height: 935px;
+  overflow: hidden;
+}
+button {
+  background-color: #b7d9f0;
+}

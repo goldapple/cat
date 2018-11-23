@@ -1,0 +1,24 @@
+.Detail_Unit {
+  padding: 0 5%;
+  display: block;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: unset;
+  background-color: #bfffc5;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100%;
+}
+.Detail_Unit_Image {
+  text-align: center;
+}
+ol {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  width: 95%;
+  text-align: left;
+  word-break: keep-all;
+}
+.Detail_Unit_Image img {
+  width: 70%;
+  height: 500px;
+}
